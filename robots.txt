@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jimflow.github.io/sitemap.xml
