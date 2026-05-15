@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rigging on Jimmy Chao Learning Lab</title>
-    <link>http://localhost:1313/rigging/</link>
+    <link>https://JimmyChao90196.github.io/rigging/</link>
     <description>Recent content in Rigging on Jimmy Chao Learning Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate></lastBuildDate><atom:link href="http://localhost:1313/rigging/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate><atom:link href="https://JimmyChao90196.github.io/rigging/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

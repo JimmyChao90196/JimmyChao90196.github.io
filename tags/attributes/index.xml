@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Attributes on Jimmy Chao Learning Lab</title>
-    <link>http://localhost:1313/tags/attributes/</link>
+    <link>https://JimmyChao90196.github.io/tags/attributes/</link>
     <description>Recent content in Attributes on Jimmy Chao Learning Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/attributes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/tags/attributes/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Attribute Wrangling Basics</title>
-      <link>http://localhost:1313/vex/attribute-wrangling/</link>
+      <link>https://JimmyChao90196.github.io/vex/attribute-wrangling/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/vex/attribute-wrangling/</guid>
+      <guid>https://JimmyChao90196.github.io/vex/attribute-wrangling/</guid>
       <description></description>
       
     </item>

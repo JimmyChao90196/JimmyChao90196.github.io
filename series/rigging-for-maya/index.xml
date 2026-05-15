@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rigging for Maya on Jimmy Chao Learning Lab</title>
-    <link>http://localhost:1313/series/rigging-for-maya/</link>
+    <link>https://JimmyChao90196.github.io/series/rigging-for-maya/</link>
     <description>Recent content in Rigging for Maya on Jimmy Chao Learning Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/series/rigging-for-maya/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/series/rigging-for-maya/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Animator Picker Layout</title>
-      <link>http://localhost:1313/rigging/maya/anim-picker/</link>
+      <link>https://JimmyChao90196.github.io/rigging/maya/anim-picker/</link>
       <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/rigging/maya/anim-picker/</guid>
+      <guid>https://JimmyChao90196.github.io/rigging/maya/anim-picker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Ribbon Spine Prototype</title>
-      <link>http://localhost:1313/rigging/maya/ribbon-spine/</link>
+      <link>https://JimmyChao90196.github.io/rigging/maya/ribbon-spine/</link>
       <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/rigging/maya/ribbon-spine/</guid>
+      <guid>https://JimmyChao90196.github.io/rigging/maya/ribbon-spine/</guid>
       <description></description>
       
     </item>

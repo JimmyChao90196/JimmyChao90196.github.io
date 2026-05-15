@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Jimmy Chao Learning Lab</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>https://JimmyChao90196.github.io/projects/</link>
     <description>Recent content in Projects on Jimmy Chao Learning Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Procedural Learning Hub</title>
-      <link>http://localhost:1313/projects/procedural-learning-hub/</link>
+      <link>https://JimmyChao90196.github.io/projects/procedural-learning-hub/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/procedural-learning-hub/</guid>
+      <guid>https://JimmyChao90196.github.io/projects/procedural-learning-hub/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Houdini Tool Sprint</title>
-      <link>http://localhost:1313/projects/houdini-tool-sprint/</link>
+      <link>https://JimmyChao90196.github.io/projects/houdini-tool-sprint/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/houdini-tool-sprint/</guid>
+      <guid>https://JimmyChao90196.github.io/projects/houdini-tool-sprint/</guid>
       <description></description>
       
     </item>
