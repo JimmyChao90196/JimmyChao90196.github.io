@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Houdini on Jimmy Chao Learning Lab</title>
-    <link>http://localhost:1314/tags/houdini/</link>
+    <link>http://localhost:1313/tags/houdini/</link>
     <description>Recent content in Houdini on Jimmy Chao Learning Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/houdini/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/houdini/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Houdini Tool Sprint</title>
-      <link>http://localhost:1314/projects/houdini-tool-sprint/</link>
+      <link>http://localhost:1313/projects/houdini-tool-sprint/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/projects/houdini-tool-sprint/</guid>
+      <guid>http://localhost:1313/projects/houdini-tool-sprint/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Procedural Facial Rig Notes</title>
-      <link>http://localhost:1314/rigging/houdini/procedural-facial-rig/</link>
+      <link>http://localhost:1313/rigging/houdini/procedural-facial-rig/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/rigging/houdini/procedural-facial-rig/</guid>
+      <guid>http://localhost:1313/rigging/houdini/procedural-facial-rig/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>KineFX Biped Blockout</title>
-      <link>http://localhost:1314/rigging/houdini/kinefx-biped/</link>
+      <link>http://localhost:1313/rigging/houdini/kinefx-biped/</link>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/rigging/houdini/kinefx-biped/</guid>
+      <guid>http://localhost:1313/rigging/houdini/kinefx-biped/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Node Graph Audit</title>
-      <link>http://localhost:1314/python/houdini/node-graph-audit/</link>
+      <link>http://localhost:1313/python/houdini/node-graph-audit/</link>
       <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/python/houdini/node-graph-audit/</guid>
+      <guid>http://localhost:1313/python/houdini/node-graph-audit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Shelf Toolkit Starter</title>
-      <link>http://localhost:1314/python/houdini/shelf-toolkit/</link>
+      <link>http://localhost:1313/python/houdini/shelf-toolkit/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/python/houdini/shelf-toolkit/</guid>
+      <guid>http://localhost:1313/python/houdini/shelf-toolkit/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Procedural Constraints in VEX</title>
-      <link>http://localhost:1314/vex/procedural-constraints/</link>
+      <link>http://localhost:1313/vex/procedural-constraints/</link>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/vex/procedural-constraints/</guid>
+      <guid>http://localhost:1313/vex/procedural-constraints/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Attribute Wrangling Basics</title>
-      <link>http://localhost:1314/vex/attribute-wrangling/</link>
+      <link>http://localhost:1313/vex/attribute-wrangling/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/vex/attribute-wrangling/</guid>
+      <guid>http://localhost:1313/vex/attribute-wrangling/</guid>
       <description></description>
       
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Facial-Rig on Jimmy Chao Learning Lab</title>
-    <link>http://localhost:1314/tags/facial-rig/</link>
+    <link>http://localhost:1313/tags/facial-rig/</link>
     <description>Recent content in Facial-Rig on Jimmy Chao Learning Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/tags/facial-rig/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/facial-rig/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Procedural Facial Rig Notes</title>
-      <link>http://localhost:1314/rigging/houdini/procedural-facial-rig/</link>
+      <link>http://localhost:1313/rigging/houdini/procedural-facial-rig/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1314/rigging/houdini/procedural-facial-rig/</guid>
+      <guid>http://localhost:1313/rigging/houdini/procedural-facial-rig/</guid>
       <description></description>
       
     </item>
