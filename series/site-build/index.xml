@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Site Build on Jimmy Chao Learning Lab</title>
+    <link>http://localhost:1314/series/site-build/</link>
+    <description>Recent content in Site Build on Jimmy Chao Learning Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
+    <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
+    <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/series/site-build/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Procedural Learning Hub</title>
+      <link>http://localhost:1314/projects/procedural-learning-hub/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1314/projects/procedural-learning-hub/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Houdini Tool Sprint</title>
+      <link>http://localhost:1314/projects/houdini-tool-sprint/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1314/projects/houdini-tool-sprint/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

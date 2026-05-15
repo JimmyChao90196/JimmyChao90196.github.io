@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on Blowfish</title><link>https://JimmyChao90196.github.io/categories/</link><description>Recent content in Categories on Blowfish</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor><webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster><copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright><atom:link href="https://JimmyChao90196.github.io/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jimmy Chao Learning Lab</title>
+    <link>http://localhost:1314/categories/</link>
+    <description>Recent content in Categories on Jimmy Chao Learning Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
+    <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
+    <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1314/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1314/categories/projects/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1314/categories/projects/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Motion Graphic</title>
+      <link>http://localhost:1314/categories/motion-graphic/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1314/categories/motion-graphic/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rigging</title>
+      <link>http://localhost:1314/categories/rigging/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1314/categories/rigging/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1314/categories/python/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1314/categories/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VEX</title>
+      <link>http://localhost:1314/categories/vex/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1314/categories/vex/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
