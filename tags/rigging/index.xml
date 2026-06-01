@@ -1,1 +1,65 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rigging on Jimmy Chao Learning Lab</title><link>https://JimmyChao90196.github.io/tags/rigging/</link><description>Recent content in Rigging on Jimmy Chao Learning Lab</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor><webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster><copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright><lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/tags/rigging/index.xml" rel="self" type="application/rss+xml"/><item><title>Animator Picker Layout</title><link>https://JimmyChao90196.github.io/rigging/maya/anim-picker/</link><pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/rigging/maya/anim-picker/</guid><description/></item><item><title>Ribbon Spine Prototype</title><link>https://JimmyChao90196.github.io/rigging/maya/ribbon-spine/</link><pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/rigging/maya/ribbon-spine/</guid><description/></item><item><title>Procedural Facial Rig Notes</title><link>https://JimmyChao90196.github.io/rigging/houdini/procedural-facial-rig/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/rigging/houdini/procedural-facial-rig/</guid><description/></item><item><title>Introduction to Apex system in Houdini</title><link>https://JimmyChao90196.github.io/rigging/houdini/apex/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/rigging/houdini/apex/</guid><description/></item><item><title>KineFX Biped Blockout</title><link>https://JimmyChao90196.github.io/rigging/houdini/kinefx-biped/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/rigging/houdini/kinefx-biped/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rigging on Jimmy Chao Learning Lab</title>
+    <link>http://localhost:53558/tags/rigging/</link>
+    <description>Recent content in Rigging on Jimmy Chao Learning Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
+    <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
+    <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
+    <lastBuildDate>Tue, 12 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53558/tags/rigging/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Animator Picker Layout</title>
+      <link>http://localhost:53558/rigging/maya/anim-picker/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/rigging/maya/anim-picker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ribbon Spine Prototype</title>
+      <link>http://localhost:53558/rigging/maya/ribbon-spine/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/rigging/maya/ribbon-spine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Procedural Facial Rig Notes</title>
+      <link>http://localhost:53558/rigging/houdini/procedural-facial-rig/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/rigging/houdini/procedural-facial-rig/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Introduction to Apex system in Houdini</title>
+      <link>http://localhost:53558/rigging/houdini/apex/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/rigging/houdini/apex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>KineFX Biped Blockout</title>
+      <link>http://localhost:53558/rigging/houdini/kinefx-biped/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/rigging/houdini/kinefx-biped/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

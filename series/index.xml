@@ -1,1 +1,105 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Series on Jimmy Chao Learning Lab</title><link>https://JimmyChao90196.github.io/series/</link><description>Recent content in Series on Jimmy Chao Learning Lab</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor><webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster><copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright><lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/series/index.xml" rel="self" type="application/rss+xml"/><item><title>Motion Design in Houdini</title><link>https://JimmyChao90196.github.io/series/motion-design-in-houdini/</link><pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/motion-design-in-houdini/</guid><description/></item><item><title>Site Build</title><link>https://JimmyChao90196.github.io/series/site-build/</link><pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/site-build/</guid><description/></item><item><title>AI Hybrid Workflow</title><link>https://JimmyChao90196.github.io/series/ai-hybrid-workflow/</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/ai-hybrid-workflow/</guid><description/></item><item><title>Rigging for Maya</title><link>https://JimmyChao90196.github.io/series/rigging-for-maya/</link><pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/rigging-for-maya/</guid><description/></item><item><title>Rigging for Houdini</title><link>https://JimmyChao90196.github.io/series/rigging-for-houdini/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/rigging-for-houdini/</guid><description/></item><item><title>Rigging for Houdini(Apex)</title><link>https://JimmyChao90196.github.io/series/rigging-for-houdiniapex/</link><pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/rigging-for-houdiniapex/</guid><description/></item><item><title>Python for Maya</title><link>https://JimmyChao90196.github.io/series/python-for-maya/</link><pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/python-for-maya/</guid><description/></item><item><title>Python for Houdini</title><link>https://JimmyChao90196.github.io/series/python-for-houdini/</link><pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/python-for-houdini/</guid><description/></item><item><title>VEX Foundations</title><link>https://JimmyChao90196.github.io/series/vex-foundations/</link><pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate><author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author><guid>https://JimmyChao90196.github.io/series/vex-foundations/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Jimmy Chao Learning Lab</title>
+    <link>http://localhost:53558/series/</link>
+    <description>Recent content in Series on Jimmy Chao Learning Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
+    <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
+    <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
+    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53558/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Motion Design in Houdini</title>
+      <link>http://localhost:53558/series/motion-design-in-houdini/</link>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/motion-design-in-houdini/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Site Build</title>
+      <link>http://localhost:53558/series/site-build/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/site-build/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>AI Hybrid Workflow</title>
+      <link>http://localhost:53558/series/ai-hybrid-workflow/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/ai-hybrid-workflow/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rigging for Maya</title>
+      <link>http://localhost:53558/series/rigging-for-maya/</link>
+      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/rigging-for-maya/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rigging for Houdini</title>
+      <link>http://localhost:53558/series/rigging-for-houdini/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/rigging-for-houdini/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Rigging for Houdini(Apex)</title>
+      <link>http://localhost:53558/series/rigging-for-houdiniapex/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/rigging-for-houdiniapex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python for Maya</title>
+      <link>http://localhost:53558/series/python-for-maya/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/python-for-maya/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python for Houdini</title>
+      <link>http://localhost:53558/series/python-for-houdini/</link>
+      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/python-for-houdini/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>VEX Foundations</title>
+      <link>http://localhost:53558/series/vex-foundations/</link>
+      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:53558/series/vex-foundations/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
