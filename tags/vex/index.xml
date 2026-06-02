@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vex on Jimmy Chao Learning Lab</title>
-    <link>http://localhost:53558/tags/vex/</link>
+    <link>http://localhost:1313/tags/vex/</link>
     <description>Recent content in Vex on Jimmy Chao Learning Lab</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:53558/tags/vex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/vex/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Procedural Constraints in VEX</title>
-      <link>http://localhost:53558/vex/procedural-constraints/</link>
+      <link>http://localhost:1313/vex/procedural-constraints/</link>
       <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:53558/vex/procedural-constraints/</guid>
+      <guid>http://localhost:1313/vex/procedural-constraints/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Attribute Wrangling Basics</title>
-      <link>http://localhost:53558/vex/attribute-wrangling/</link>
+      <link>http://localhost:1313/vex/attribute-wrangling/</link>
       <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:53558/vex/attribute-wrangling/</guid>
+      <guid>http://localhost:1313/vex/attribute-wrangling/</guid>
       <description></description>
       
     </item>
