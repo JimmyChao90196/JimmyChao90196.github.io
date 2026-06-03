@@ -18,7 +18,7 @@
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
       <guid>http://localhost:1313/projects/the-cursed-bridge/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/the-cursed-bridge/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/the-cursed-bridge/feature.webp" />
     </item>
     
     <item>
@@ -28,7 +28,7 @@
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
       <guid>http://localhost:1313/projects/rogreset/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rogreset/feature.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rogreset/feature.webp" />
     </item>
     
   </channel>
