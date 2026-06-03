@@ -9,7 +9,17 @@
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Mon, 01 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Cursed Bridge</title>
+      <link>http://localhost:1313/projects/the-cursed-bridge/</link>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1313/projects/the-cursed-bridge/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/the-cursed-bridge/feature.png" />
+    </item>
     
     <item>
       <title>Manipulating the Packed Geometry</title>
@@ -88,7 +98,7 @@
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
       <guid>http://localhost:1313/projects/rogreset/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rogreset/feature.png" />
     </item>
     
     <item>

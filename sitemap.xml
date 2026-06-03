@@ -4,7 +4,19 @@
 
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/the-cursed-bridge/</loc>
+    <lastmod>2026-06-03T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -82,12 +94,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/rigging/houdini/procedural-facial-rig/</loc>
-    <lastmod>2026-05-10T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
