@@ -13,32 +13,42 @@
     
     <item>
       <title>MSI | Sword 15 A13V</title>
-      <link>http://localhost:1313/projects/msi--sword-15-a13v/</link>
+      <link>http://localhost:1313/projects/msi---sword-15-a13v/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/msi--sword-15-a13v/</guid>
+      <guid>http://localhost:1313/projects/msi---sword-15-a13v/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/msi--sword-15-a13v/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/msi---sword-15-a13v/feature.webp" />
     </item>
     
     <item>
       <title>ROG | Strix SCAR</title>
-      <link>http://localhost:1313/projects/rogstrix-scar/</link>
+      <link>http://localhost:1313/projects/rog-strix-scar/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/rogstrix-scar/</guid>
+      <guid>http://localhost:1313/projects/rog-strix-scar/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rogstrix-scar/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rog-strix-scar/feature.webp" />
     </item>
     
     <item>
       <title>ROG | RE:SET</title>
-      <link>http://localhost:1313/projects/rogreset/</link>
+      <link>http://localhost:1313/projects/rog-re-set/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/rogreset/</guid>
+      <guid>http://localhost:1313/projects/rog-re-set/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rogreset/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rog-re-set/feature.webp" />
+    </item>
+    
+    <item>
+      <title>ASUS TUF Gaming Series</title>
+      <link>http://localhost:1313/projects/asus-tuf-gaming-series/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1313/projects/asus-tuf-gaming-series/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/asus-tuf-gaming-series/feature.webp" />
     </item>
     
   </channel>

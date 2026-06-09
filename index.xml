@@ -9,7 +9,17 @@
     <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Wed, 03 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Recursive Subdivision &amp; Extrusion</title>
+      <link>http://localhost:1313/motion-graphic/traditional-workflow/recursive-subdivision/</link>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>http://localhost:1313/motion-graphic/traditional-workflow/recursive-subdivision/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/motion-graphic/traditional-workflow/recursive-subdivision/feature.webp" />
+    </item>
     
     <item>
       <title>The Cursed Bridge</title>
@@ -33,22 +43,22 @@
     
     <item>
       <title>MSI | Sword 15 A13V</title>
-      <link>http://localhost:1313/projects/msi--sword-15-a13v/</link>
+      <link>http://localhost:1313/projects/msi---sword-15-a13v/</link>
       <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/msi--sword-15-a13v/</guid>
+      <guid>http://localhost:1313/projects/msi---sword-15-a13v/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/msi--sword-15-a13v/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/msi---sword-15-a13v/feature.webp" />
     </item>
     
     <item>
       <title>ROG | Strix SCAR</title>
-      <link>http://localhost:1313/projects/rogstrix-scar/</link>
+      <link>http://localhost:1313/projects/rog-strix-scar/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/rogstrix-scar/</guid>
+      <guid>http://localhost:1313/projects/rog-strix-scar/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rogstrix-scar/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rog-strix-scar/feature.webp" />
     </item>
     
     <item>
@@ -62,133 +72,23 @@
     </item>
     
     <item>
-      <title>Prompt to Comp Handoff</title>
-      <link>http://localhost:1313/motion-graphic/ai-hybrid/prompt-to-comp/</link>
-      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/motion-graphic/ai-hybrid/prompt-to-comp/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>AI Styleframe System</title>
-      <link>http://localhost:1313/motion-graphic/ai-hybrid/styleframe-system/</link>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/motion-graphic/ai-hybrid/styleframe-system/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Animator Picker Layout</title>
-      <link>http://localhost:1313/rigging/maya/anim-picker/</link>
-      <pubDate>Tue, 12 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/rigging/maya/anim-picker/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Ribbon Spine Prototype</title>
-      <link>http://localhost:1313/rigging/maya/ribbon-spine/</link>
-      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/rigging/maya/ribbon-spine/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Procedural Facial Rig Notes</title>
-      <link>http://localhost:1313/rigging/houdini/procedural-facial-rig/</link>
-      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/rigging/houdini/procedural-facial-rig/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>ROG | RE:SET</title>
-      <link>http://localhost:1313/projects/rogreset/</link>
+      <link>http://localhost:1313/projects/rog-re-set/</link>
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/projects/rogreset/</guid>
+      <guid>http://localhost:1313/projects/rog-re-set/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rogreset/feature.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/rog-re-set/feature.webp" />
     </item>
     
     <item>
-      <title>KineFX Biped Blockout</title>
-      <link>http://localhost:1313/rigging/houdini/kinefx-biped/</link>
-      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/rigging/houdini/kinefx-biped/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Viewport Review Helper</title>
-      <link>http://localhost:1313/python/maya/viewport-review/</link>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/python/maya/viewport-review/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Asset Publisher Mockup</title>
-      <link>http://localhost:1313/python/maya/asset-publisher/</link>
-      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/python/maya/asset-publisher/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Node Graph Audit</title>
-      <link>http://localhost:1313/python/houdini/node-graph-audit/</link>
-      <pubDate>Wed, 06 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/python/houdini/node-graph-audit/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Shelf Toolkit Starter</title>
-      <link>http://localhost:1313/python/houdini/shelf-toolkit/</link>
+      <title>ASUS TUF Gaming Series</title>
+      <link>http://localhost:1313/projects/asus-tuf-gaming-series/</link>
       <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
       <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/python/houdini/shelf-toolkit/</guid>
+      <guid>http://localhost:1313/projects/asus-tuf-gaming-series/</guid>
       <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Procedural Constraints in VEX</title>
-      <link>http://localhost:1313/vex/procedural-constraints/</link>
-      <pubDate>Sun, 03 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/vex/procedural-constraints/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Attribute Wrangling Basics</title>
-      <link>http://localhost:1313/vex/attribute-wrangling/</link>
-      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
-      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
-      <guid>http://localhost:1313/vex/attribute-wrangling/</guid>
-      <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/projects/asus-tuf-gaming-series/feature.webp" />
     </item>
     
     <item>
