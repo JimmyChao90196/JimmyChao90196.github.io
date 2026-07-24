@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anatomy on Jimmy Chao Learning Lab</title>
+    <link>https://JimmyChao90196.github.io/anatomy/</link>
+    <description>Recent content in Anatomy on Jimmy Chao Learning Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
+    <webMaster>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
+    <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
+    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Arm Anatomy</title>
+      <link>https://JimmyChao90196.github.io/anatomy/arm/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>https://JimmyChao90196.github.io/anatomy/arm/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/arm/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Full Body Anatomy</title>
+      <link>https://JimmyChao90196.github.io/anatomy/full-body/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>https://JimmyChao90196.github.io/anatomy/full-body/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/full-body/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Hand Anatomy</title>
+      <link>https://JimmyChao90196.github.io/anatomy/hand/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>https://JimmyChao90196.github.io/anatomy/hand/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/hand/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Head Anatomy</title>
+      <link>https://JimmyChao90196.github.io/anatomy/head/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>https://JimmyChao90196.github.io/anatomy/head/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/head/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Lower Body Anatomy</title>
+      <link>https://JimmyChao90196.github.io/anatomy/lower-body/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>https://JimmyChao90196.github.io/anatomy/lower-body/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/lower-body/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Torso Anatomy</title>
+      <link>https://JimmyChao90196.github.io/anatomy/torso/</link>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+      <author>myname90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>https://JimmyChao90196.github.io/anatomy/torso/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/torso/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>
