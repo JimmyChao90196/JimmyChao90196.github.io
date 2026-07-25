@@ -99,18 +99,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://JimmyChao90196.github.io/videos/example/</loc>
-    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://JimmyChao90196.github.io/videos/</loc>
-    <lastmod>2026-05-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://JimmyChao90196.github.io/projects/rog-re-set/</loc>
     <lastmod>2026-05-10T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -130,16 +118,6 @@
   </url>
   <url>
     <loc>https://JimmyChao90196.github.io/about/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://JimmyChao90196.github.io/python/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://JimmyChao90196.github.io/vex/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
