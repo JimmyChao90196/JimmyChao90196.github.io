@@ -3,20 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://JimmyChao90196.github.io/anatomy/</loc>
+    <loc>https://JimmyChao90196.github.io/anatomy/expression/01/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://JimmyChao90196.github.io/anatomy/figure/01/</loc>
     <lastmod>2026-08-13T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://JimmyChao90196.github.io/anatomy/figure/02/</loc>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://JimmyChao90196.github.io/anatomy/figure/03/</loc>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://JimmyChao90196.github.io/anatomy/figure/04/</loc>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://JimmyChao90196.github.io/anatomy/</loc>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://JimmyChao90196.github.io/anatomy/figure/</loc>
-    <lastmod>2026-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://JimmyChao90196.github.io/</loc>
-    <lastmod>2026-08-13T00:00:00+00:00</lastmod>
+    <lastmod>2026-10-27T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://JimmyChao90196.github.io/anatomy/expression/</loc>
+    <lastmod>2026-10-26T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

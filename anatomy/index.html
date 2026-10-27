@@ -151,8 +151,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.0479f28554ba9e274defbf2d4200bca27cc97f7a2d32e35ea07638ed95bf5dbb249664e6646ebbdc310893faef40e003d46d3de2d697f5780953f1c3f4d7acd6.css"
-    integrity="sha512-BHnyhVS6nidN778tQgC8onzJf3otMuNeoHY47ZW/XbsklmTmZG673DEIk/rvQOAD1G094taX9XgJU/HD9Nes1g==">
+    href="/css/main.bundle.min.32dc4d836e933376f854cd4235c69115199b9f2c4916e69def8b33585fb980dc68339a2951fa86834dffb5b1b3854114ce9e928079437f790e0c46655e8a4548.css"
+    integrity="sha512-MtxNg26TM3b4VM1CNcaRFRmbnyxJFuad74szWF&#43;5gNxoM5opUfqGg03/tbGzhUEUzp6SgHlDf3kODEZlXopFSA==">
 
   
   
@@ -269,10 +269,10 @@
       "name": "Jimmy Chao (Jun-Yu Zhao)"
     },
     "copyrightYear": "2026",
-    "dateCreated": "2026-08-13T00:00:00\u002b00:00",
-    "datePublished": "2026-08-13T00:00:00\u002b00:00",
+    "dateCreated": "2026-10-27T00:00:00\u002b00:00",
+    "datePublished": "2026-10-27T00:00:00\u002b00:00",
     
-    "dateModified": "2026-08-13T00:00:00\u002b00:00",
+    "dateModified": "2026-10-27T00:00:00\u002b00:00",
     
     
     
@@ -458,6 +458,17 @@
                 
                 <span class="text-sm font-sm" title="Figure Anatomy">
                   Figure
+                </span>
+              </a>
+            
+              <a
+                href="/anatomy/expression/"
+                
+                aria-label="Expression"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Expression Study">
+                  Expression
                 </span>
               </a>
             
@@ -768,6 +779,17 @@
                   </span>
                 </a>
               
+                <a
+                  href="/anatomy/expression/"
+                  aria-label="Expression"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Expression Study" class="text-lg">
+                    Expression
+                  </span>
+                </a>
+              
             </div>
           </div>
         </div>
@@ -1007,6 +1029,69 @@
 
 
 
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+      
+      
+        
+      
+      
+    
+  
+    
+    
+    
+      
+    
+    
+    
+      
+      
+        
+      
+      
+    
+  
+    
+    
+    
+      
+    
+    
+    
+      
+      
+        
+      
+      
+    
+  
+    
+    
+    
+      
+    
+    
+    
+      
+      
+        
+      
+      
+    
+  
+
+
+
   
   
     
@@ -1046,14 +1131,110 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/anatomy/figure/feature_hu_78345f9f49552430.webp"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
+    
+    <div class="jc-cardscroll flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5;">
+      <div
+        id="cardscroll-67424973b1"
+        class="jc-cardscroll__track flex h-full w-full overflow-x-auto overflow-y-hidden snap-x snap-mandatory"
+        aria-label="Figure Anatomy works">
+        
+          <img
+            src="/anatomy/figure/04/feature_hu_83b36f5cd8778ddf.webp"
+            role="presentation"
+            loading="lazy"
+            decoding="async"
+            class="not-prose h-full w-full flex-none snap-start object-cover"
+            style="flex-basis: 100%;">
+        
+          <img
+            src="/anatomy/figure/03/feature_hu_1a5290bfa5843711.webp"
+            role="presentation"
+            loading="lazy"
+            decoding="async"
+            class="not-prose h-full w-full flex-none snap-start object-cover"
+            style="flex-basis: 100%;">
+        
+          <img
+            src="/anatomy/figure/02/feature_hu_b0f05cc0bd94e05e.webp"
+            role="presentation"
+            loading="lazy"
+            decoding="async"
+            class="not-prose h-full w-full flex-none snap-start object-cover"
+            style="flex-basis: 100%;">
+        
+          <img
+            src="/anatomy/figure/01/feature_hu_78345f9f49552430.webp"
+            role="presentation"
+            loading="lazy"
+            decoding="async"
+            class="not-prose h-full w-full flex-none snap-start object-cover"
+            style="flex-basis: 100%;">
+        
+      </div>
     </div>
+    <script>
+      (function () {
+        var el = document.getElementById("cardscroll-67424973b1");
+        if (!el || el.children.length < 2) return;
+        var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        
+        
+        var real = el.children.length;
+        
+        
+        
+        
+        if (!reduce) el.appendChild(el.firstElementChild.cloneNode(true));
+        var i = 0, paused = false, programmatic = false, rafId = null, progTimer = null;
+        function markProgrammatic() {
+          programmatic = true;
+          clearTimeout(progTimer);
+          progTimer = setTimeout(function () { programmatic = false; }, 350);
+        }
+        
+        
+        
+        function tween(to, onDone) {
+          if (rafId) cancelAnimationFrame(rafId);
+          markProgrammatic();
+          var from = el.scrollLeft, start = null, dur = 500;
+          function frame(ts) {
+            if (start === null) start = ts;
+            var p = Math.min(1, (ts - start) / dur);
+            var e = p < 0.5 ? 2 * p * p : 1 - Math.pow(-2 * p + 2, 2) / 2; 
+            el.scrollLeft = from + (to - from) * e;
+            if (p < 1) { rafId = requestAnimationFrame(frame); }
+            else { el.scrollLeft = to; rafId = null; if (onDone) onDone(); }
+          }
+          rafId = requestAnimationFrame(frame);
+        }
+        function snapToStart() { i = 0; markProgrammatic(); el.scrollLeft = 0; } 
+        el.addEventListener("scroll", function () {
+          if (programmatic) return;                      
+          clearTimeout(el._jcT);
+          el._jcT = setTimeout(function () {
+            var idx = Math.round(el.scrollLeft / el.clientWidth);
+            if (idx >= real) snapToStart();              
+            else i = idx;
+          }, 150);
+        });
+        ["pointerenter", "touchstart", "focusin"].forEach(function (ev) {
+          el.addEventListener(ev, function () { paused = true; }, { passive: true });
+        });
+        ["pointerleave", "touchend", "focusout"].forEach(function (ev) {
+          el.addEventListener(ev, function () { paused = false; }, { passive: true });
+        });
+        if (reduce) return;
+        setInterval(function () {
+          if (paused) return;
+          if (i >= real) snapToStart();                  
+          i = i + 1;                                     
+          tween(el.clientWidth * i, function () {
+            if (i >= real) snapToStart();                
+          });
+        }, 2600);
+      })();
+    </script>
   
   
   <div class="p-4">
@@ -1116,7 +1297,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-08-13T00:00:00&#43;00:00">13 August 2026</time><span class="px-2 text-primary-500">&middot;</span><span>35 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+      <time datetime="2026-10-27T00:00:00&#43;00:00">27 October 2026</time><span class="px-2 text-primary-500">&middot;</span><span>29 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
     
 
     
@@ -1136,95 +1317,253 @@
         
       
         
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/tags/anatomy/">
-                  <span class="flex cursor-pointer">
+      
+    </div>
   
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Anatomy
-  </span>
-</span>
 
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/tags/sculpting/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Sculpting
-  </span>
-</span>
 
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/tags/zbrush/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Zbrush
-  </span>
-</span>
+    </div>
+    
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+        
+      </div>
+    
+  </div>
+  <div class="px-6 pt-4 pb-2"></div>
+</article>
 
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/tags/figure/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Figure
-  </span>
-</span>
+                
+                  
 
-                </a>
-              
-            
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+      
+      
+        
+      
+      
+    
+  
+
+
+
+  
+  
+    
+      
+        
+      
+    
+
+    
+    
+      
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+    
+
+    
+    
+      
+        
+        
           
+        
+      
+    
+  
+
+
+
+<article
+  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
+  
+    
+    <div class="jc-cardscroll flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5;">
+      <div
+        id="cardscroll-8712ffdc85"
+        class="jc-cardscroll__track flex h-full w-full overflow-x-auto overflow-y-hidden snap-x snap-mandatory"
+        aria-label="Expression Study works">
+        
+          <img
+            src="/anatomy/expression/01/feature_hu_6f5b2a53d71da500.webp"
+            role="presentation"
+            loading="lazy"
+            decoding="async"
+            class="not-prose h-full w-full flex-none snap-start object-cover"
+            style="flex-basis: 100%;">
+        
+      </div>
+    </div>
+    <script>
+      (function () {
+        var el = document.getElementById("cardscroll-8712ffdc85");
+        if (!el || el.children.length < 2) return;
+        var reduce = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        
+        
+        var real = el.children.length;
+        
+        
+        
+        
+        if (!reduce) el.appendChild(el.firstElementChild.cloneNode(true));
+        var i = 0, paused = false, programmatic = false, rafId = null, progTimer = null;
+        function markProgrammatic() {
+          programmatic = true;
+          clearTimeout(progTimer);
+          progTimer = setTimeout(function () { programmatic = false; }, 350);
+        }
+        
+        
+        
+        function tween(to, onDone) {
+          if (rafId) cancelAnimationFrame(rafId);
+          markProgrammatic();
+          var from = el.scrollLeft, start = null, dur = 500;
+          function frame(ts) {
+            if (start === null) start = ts;
+            var p = Math.min(1, (ts - start) / dur);
+            var e = p < 0.5 ? 2 * p * p : 1 - Math.pow(-2 * p + 2, 2) / 2; 
+            el.scrollLeft = from + (to - from) * e;
+            if (p < 1) { rafId = requestAnimationFrame(frame); }
+            else { el.scrollLeft = to; rafId = null; if (onDone) onDone(); }
+          }
+          rafId = requestAnimationFrame(frame);
+        }
+        function snapToStart() { i = 0; markProgrammatic(); el.scrollLeft = 0; } 
+        el.addEventListener("scroll", function () {
+          if (programmatic) return;                      
+          clearTimeout(el._jcT);
+          el._jcT = setTimeout(function () {
+            var idx = Math.round(el.scrollLeft / el.clientWidth);
+            if (idx >= real) snapToStart();              
+            else i = idx;
+          }, 150);
+        });
+        ["pointerenter", "touchstart", "focusin"].forEach(function (ev) {
+          el.addEventListener(ev, function () { paused = true; }, { passive: true });
+        });
+        ["pointerleave", "touchend", "focusout"].forEach(function (ev) {
+          el.addEventListener(ev, function () { paused = false; }, { passive: true });
+        });
+        if (reduce) return;
+        setInterval(function () {
+          if (paused) return;
+          if (i >= real) snapToStart();                  
+          i = i + 1;                                     
+          tween(el.clientWidth * i, function () {
+            if (i >= real) snapToStart();                
+          });
+        }, 2600);
+      })();
+    </script>
+  
+  
+  <div class="p-4">
+    <header>
+      <a
+        
+          href="/anatomy/expression/"
+        
+        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+        <h2>
+          Expression Study
+          
+        </h2>
+      </a>
+    </header>
+    <div class="text-sm text-neutral-500 dark:text-neutral-400">
+      
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+
+  
+    
+  
+
+  
+    
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+  <div class="flex flex-row flex-wrap items-center">
+    
+    
+      <time datetime="2026-10-26T00:00:00&#43;00:00">26 October 2026</time><span class="px-2 text-primary-500">&middot;</span><span>16 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">1 min</span>
+    
+
+    
+    
+  </div>
+
+  
+
+  
+  
+    <div class="flex flex-row flex-wrap items-center">
+      
+        
+      
+        
+      
+        
+      
         
       
     </div>
@@ -1233,12 +1572,21 @@
 
     </div>
     
+      <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
+        
+      </div>
+    
   </div>
   <div class="px-6 pt-4 pb-2"></div>
 </article>
 
                 
                   
+
+
+
+
+
 
 
 
@@ -1287,14 +1635,16 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/anatomy/torso/feature_hu_f131daab96788a18.webp"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
+    
+      <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
+        <img
+          src="/anatomy/torso/feature_hu_f131daab96788a18.webp"
+          role="presentation"
+          loading="lazy"
+          decoding="async"
+          class="not-prose absolute inset-0 w-full h-full object-cover">
+      </div>
+    
   
   
   <div class="p-4">
@@ -1489,6 +1839,11 @@
 
 
 
+
+
+
+
+
   
   
     
@@ -1528,14 +1883,16 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/anatomy/lower-body/feature_hu_8c6e0b828157376e.webp"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
+    
+      <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
+        <img
+          src="/anatomy/lower-body/feature_hu_8c6e0b828157376e.webp"
+          role="presentation"
+          loading="lazy"
+          decoding="async"
+          class="not-prose absolute inset-0 w-full h-full object-cover">
+      </div>
+    
   
   
   <div class="p-4">
@@ -1730,6 +2087,11 @@
 
 
 
+
+
+
+
+
   
   
     
@@ -1769,14 +2131,16 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/anatomy/head/feature_hu_945327f931ab4bdc.webp"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
+    
+      <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
+        <img
+          src="/anatomy/head/feature_hu_945327f931ab4bdc.webp"
+          role="presentation"
+          loading="lazy"
+          decoding="async"
+          class="not-prose absolute inset-0 w-full h-full object-cover">
+      </div>
+    
   
   
   <div class="p-4">
@@ -1971,6 +2335,11 @@
 
 
 
+
+
+
+
+
   
   
     
@@ -2010,14 +2379,16 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/anatomy/hand/feature_hu_907a691d8f03d474.webp"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
+    
+      <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
+        <img
+          src="/anatomy/hand/feature_hu_907a691d8f03d474.webp"
+          role="presentation"
+          loading="lazy"
+          decoding="async"
+          class="not-prose absolute inset-0 w-full h-full object-cover">
+      </div>
+    
   
   
   <div class="p-4">
@@ -2212,6 +2583,11 @@
 
 
 
+
+
+
+
+
   
   
     
@@ -2251,14 +2627,16 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/anatomy/full-body/feature_hu_23da7e73f89616be.webp"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
+    
+      <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
+        <img
+          src="/anatomy/full-body/feature_hu_23da7e73f89616be.webp"
+          role="presentation"
+          loading="lazy"
+          decoding="async"
+          class="not-prose absolute inset-0 w-full h-full object-cover">
+      </div>
+    
   
   
   <div class="p-4">
@@ -2453,6 +2831,11 @@
 
 
 
+
+
+
+
+
   
   
     
@@ -2492,14 +2875,16 @@
 <article
   class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
   
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/anatomy/arm/feature_hu_57fb40cba5fdeaa3.webp"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
+    
+      <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
+        <img
+          src="/anatomy/arm/feature_hu_57fb40cba5fdeaa3.webp"
+          role="presentation"
+          loading="lazy"
+          decoding="async"
+          class="not-prose absolute inset-0 w-full h-full object-cover">
+      </div>
+    
   
   
   <div class="p-4">
