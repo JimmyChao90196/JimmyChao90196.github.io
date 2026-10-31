@@ -9,7 +9,7 @@
     <managingEditor>jimsculpt90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</managingEditor>
     <webMaster>jimsculpt90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</webMaster>
     <copyright>© 2026 Jimmy Chao (Jun-Yu Zhao)</copyright>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Oct 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://JimmyChao90196.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Expression Study 01</title>
@@ -29,6 +29,16 @@
       <guid>https://JimmyChao90196.github.io/anatomy/figure/01/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/figure/01/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Expression Study 02</title>
+      <link>https://JimmyChao90196.github.io/anatomy/expression/02/</link>
+      <pubDate>Sat, 31 Oct 2026 00:00:00 +0000</pubDate>
+      <author>jimsculpt90196@gmail.com (Jimmy Chao (Jun-Yu Zhao))</author>
+      <guid>https://JimmyChao90196.github.io/anatomy/expression/02/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://JimmyChao90196.github.io/anatomy/expression/02/feature.webp" />
     </item>
     
     <item>
